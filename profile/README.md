@@ -4,6 +4,7 @@ A Cryptography Research and Development Lab that explores what’s possible tomo
 
 ## Repositories
 
+- [`lhtlp`](https://github.com/primefactor-io/lhtlp): Implementation of the Linearly-Homomorphic Time-Lock Puzzle scheme.
 - [`paillier`](https://github.com/primefactor-io/paillier): Implementation of the Paillier cryptosystem alongside its homomorphic operations.
 - [`sss`](https://github.com/primefactor-io/sss): Implementation of Shamir's Secret Sharing scheme.
 - [`commitment`](https://github.com/primefactor-io/commitment): Implementations of various commitment schemes.
