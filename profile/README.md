@@ -4,6 +4,7 @@ A Cryptography Research and Development Lab that explores what’s possible tomo
 
 ## Repositories
 
+- [`lindell17`](https://github.com/primefactor-io/lindell17): Implementation of the Fast Secure Two-Party ECDSA Signing scheme.
 - [`ecc`](https://github.com/primefactor-io/ecc): Implementations of various Elliptic Curve Cryptography primitives.
 - [`lhtlp`](https://github.com/primefactor-io/lhtlp): Implementation of the Linearly-Homomorphic Time-Lock Puzzle scheme.
 - [`paillier`](https://github.com/primefactor-io/paillier): Implementation of the Paillier cryptosystem alongside its homomorphic operations.
