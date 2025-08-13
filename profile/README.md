@@ -4,6 +4,7 @@ A Cryptography Research and Development Lab that explores what’s possible tomo
 
 ## Repositories
 
+- [`vtc`](https://github.com/primefactor-io/vtc): Implementation of the Verifiable Timed Commitment scheme.
 - [`ntt`](https://github.com/primefactor-io/ntt): Implementation of the Number Theoretic Transform (NTT) and Fast Fourier Transform (FFT) algorithms.
 - [`lindell17`](https://github.com/primefactor-io/lindell17): Implementation of the Fast Secure Two-Party ECDSA Signing scheme alongside its Adaptor Signature variant.
 - [`ecc`](https://github.com/primefactor-io/ecc): Implementations of various Elliptic Curve Cryptography primitives such as ECDSA and Adaptor ECDSA over secp256k1.
